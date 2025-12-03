@@ -474,7 +474,7 @@ function getRootHtml() {
                 <div class="mx-auto max-w-2xl lg:max-w-5xl">
                   <div class="flex flex-col items-center justify-between gap-6 sm:flex-row">
                     <p class="text-sm text-zinc-400 dark:text-zinc-500">
-                      Powered by Cloudflare Workers
+                      Powered by Cloudflare Workers, Created by <a href="https://github.com/Yrobot" target="_blank" class="underline">Yrobot</a>
                     </p>
                     <a
                       href="https://github.com/Yrobot/cloudflare-proxy"
