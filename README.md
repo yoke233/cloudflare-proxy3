@@ -267,7 +267,7 @@ A: 不可以。Cloudflare Workers 目前不支持 WebSocket 连接。
 
 ## 许可证
 
-[MIT License](LICENSE)
+[GPL-3 License](LICENSE)
 
 ## 相关链接
 
